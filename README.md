@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jtbby
+- 👋 Hi, I’m @jt-marte
 - 👀 I’m interested in nutrition, martial arts, neurology, and TECH!
 - 🌱 I’m currently improving my Java, Python, and C, with HTML/CSS on the side.
 
